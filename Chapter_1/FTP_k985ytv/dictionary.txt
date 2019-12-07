@@ -1,0 +1,5 @@
+admin:password
+user:12345
+root:toor
+default:default
+karen:Summer2001

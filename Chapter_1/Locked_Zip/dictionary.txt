@@ -1,0 +1,8 @@
+password
+admin
+toor
+root
+secret
+egg
+banana
+python
